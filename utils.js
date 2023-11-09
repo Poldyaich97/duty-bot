@@ -1,4 +1,5 @@
 import fs from 'fs';
+import config from 'config';
 
 
 const INIT_STRUCT = { users: [], duty: '' };
