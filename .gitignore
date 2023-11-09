@@ -1,5 +1,6 @@
 node_modules
 .DS_Store
-config/default.json
 duty.json
+duty-test.json
 config/production.json
+config/development.json
